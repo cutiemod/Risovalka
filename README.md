@@ -3,4 +3,4 @@
 
 Загружено для ознакомления как часть портфолио. 
 
-Поиграть можно [тут](http://games.promomat.ru/_drawing/)
+Попробовать можно [тут](http://games.promomat.ru/_polling/)
